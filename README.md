@@ -1,6 +1,7 @@
 # Data-analysis-excel-
 An Excel-based data analysis project exploring global billionaire trends. Includes data cleaning, pivot tables, charts, and key insights on net worth, age, industry, and country-wise distribution. Ideal for showcasing Excel analytics skills.
 1. Excel Workbook (.xlsx)
+
 Raw data sheet: Billionaires dataset before cleaning.
 
 Cleaned data sheet: After removing duplicates, formatting text, handling blanks.
